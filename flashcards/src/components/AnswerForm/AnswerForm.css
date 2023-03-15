@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+form{
+    padding: 10px 0px 0px 0px;
+    width: 90%;
+    height: 60px;
+    background-color: white;
+    color: black;
+    width: 706px;
+    border-bottom: 3px solid #313131;
+    border-left: 3px solid rgb(49, 49, 49);
+    border-right: 3px solid rgb(49, 49, 49);
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+    border-radius: 2px;
+}
+label{
+    padding-right: 10px;
+    cursor: text;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+
+.input {
+     margin-left: 10px;
+     margin-right: 100px;
+     border: none;
+     outline: none;
+     border-bottom: 3px solid #313131;
+     box-sizing: border-box;
+     width: 60%;
+     font-family: 'Karla', sans-serif;
+     font-size: 20px;
+     margin: 10px 0px;
+    
+   }
+.incorrect-input {
+    border: none;
+    outline: none;
+    margin-right: 100px;
+    border-bottom: 3px solid rgb(255, 0, 0);
+    outline: none;
+    box-sizing: border-box;
+    width: 60%;
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+    margin: 10px 0px;
+  }
+.correct-input {
+    border: none;
+    outline: none;
+    margin-left: 10px;
+    border-bottom: 3px solid rgb(45, 241, 101);
+    outline: none;
+    box-sizing: border-box;
+    width: 60%;
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+    margin: 10px 0px;
+  }
+  .submit-btn{
+    border: none;
+    outline: none;
+    padding: 1px 20px;
+    background-color: white;
+    margin-left: 10px;
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+
+
+  }
+  .submit-btn:hover{
+    border-bottom: 3px solid rgb(175, 175, 175);
+    color: black;
+    
+
+  }
+ 
+  
+  
+  
+  

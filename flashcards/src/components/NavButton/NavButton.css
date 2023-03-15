@@ -1,0 +1,17 @@
+.nav-buttons{
+    margin-top: 10px;
+}
+.nav-buttons button{
+    padding: 0px 92px;
+    margin: 0px 10px;
+    background-color: white;
+    border: 3px solid rgb(49, 49, 49);
+    border-radius: 2px;
+    cursor: pointer;
+}
+img{
+    height: 25px;
+    width: 150px;
+    margin: 3px;
+    
+}

@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;   
+}
+.card-easy{
+    width: 700px;
+    height: 350px;
+    background-color:white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+    border-radius: 2px;
+    box-shadow: 0 0 5px 2px #0000004d;
+    position: relative;
+    border: 6px solid #38b6ff;
+    
+}
+.card-med{
+    width: 700px;
+    height: 350px;
+    background-color:white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+    border-radius: 2px;
+    box-shadow: 0 0 5px 2px #0000004d;
+    position: relative;
+    border: 6px solid #ff5757;;
+    
+}
+.card-hard{
+    width: 700px;
+    height: 350px;
+    background-color:white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+    border-radius: 2px;
+    box-shadow: 0 0 5px 2px #0000004d;
+    position: relative;
+    border: 6px solid #ffde59;
+    
+}
+.card-num{
+    color: darkgrey;
+    font-family: 'Karla', sans-serif;
+    font-size: 20px;
+}
+.card-content{
+    font-size: 50px;
+    font-family: 'Karla', sans-serif;
+    height: 250px;
+    align-items: center;
+    height: 200px;
+}
+.content{  
+    align-items: center;
+    padding: 0px 5px;
+    
+}
+.card-nav{
+    display: flex;
+    align-items: flex-end;
+}

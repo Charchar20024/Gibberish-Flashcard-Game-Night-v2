@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap');
+
+
+.main-title{
+    font-family: 'Climate Crisis', cursive;
+    font-size: 60px;
+    letter-spacing: 5px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    height: 75px;
+    
+}
+.sub-title{
+    font-family: 'Heebo', sans-serif;
+    font-weight: 300;
+    letter-spacing: 4px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.blu{
+    color: #38b6ff;
+}
+.red{
+    color: #ff5757;
+}
+.yel{
+    color: #ffde59;
+
+}

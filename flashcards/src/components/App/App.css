@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+
+#root {
+  max-width: 1280px;
+  margin: 100px auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: white;
+  height: 100%;
+  
+}
+
+
+ body {
+  margin: 0;
+  height: 100%;
+  display: flex;
+  place-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: black;
+}
+.app{
+  align-items: center;
+  width:100vw;
+}
+.levels button{
+  display: flex;
+  font-family: 'Karla', sans-serif;
+  width: 200px;
+  font-size: 20px;
+  cursor: pointer;
+  background:none;
+  border:none;
+  color: white;
+  justify-content: end;
+}
+.levels{
+  display: flex;
+  flex-direction: column;
+  margin-left: 520px;
+}
+/* .easy-btn{
+  color: #38b6ff;
+
+}
+.med-btn{
+  color:  #ff5757;
+}
+.hard-btn{
+  color: #ffde59;
+} */
